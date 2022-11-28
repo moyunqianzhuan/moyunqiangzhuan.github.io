@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>墨云的博客</title>
-    <link>http://localhost:1313/</link>
+    <link>https://github.com/moyunqianzhuan/moyunqiangzhuan.github.io.git/</link>
     <description>Recent content on 墨云的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Nov 2022 09:01:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 09:01:18 +0800</lastBuildDate><atom:link href="https://github.com/moyunqianzhuan/moyunqiangzhuan.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>https://github.com/moyunqianzhuan/moyunqiangzhuan.github.io.git/post/first/</link>
       <pubDate>Wed, 16 Nov 2022 09:01:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
-      <description>FFD6F2FA73996A1489A2A9DC4A58618C</description>
+      <guid>https://github.com/moyunqianzhuan/moyunqiangzhuan.github.io.git/post/first/</guid>
+      <description>83DABF5E565882E8</description>
     </item>
     
   </channel>
